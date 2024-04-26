@@ -18,7 +18,7 @@ function App() {
         <SignInButton />
       </SignedOut>
       <SignedIn>
-        <UserButton />
+        
 <Supers supabase={supabase} />
       </SignedIn>
     </header>
